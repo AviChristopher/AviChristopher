@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AviChristopher
-- 👀 I’m interested in A.I,Data Analytics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in A.I,andComputer Science
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on learning Code
 - 📫 How to reach me avernell21@gmail.com
 
